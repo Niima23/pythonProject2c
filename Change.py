@@ -1,3 +1,6 @@
+# Author: Amiin Samatar
+# GitHub username: Niima23
+# Date: 9/26/2022
 #Python program to find type of coin would represent that amount with the fewest total number of coins
 
 cents = int(input("How many cents do you have? "))
